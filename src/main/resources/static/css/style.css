@@ -1,0 +1,32 @@
+/* Index.jsp Styling */
+.index {
+	max-width: 500px;
+ 	margin: auto;
+  	text-align: center;
+}
+
+.container {
+	display: flex;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+.findGold {
+	margin: auto;
+}
+
+
+.reset {
+	max-width: 500px;
+ 	margin: auto;
+}
+
+/* prison.jsp */
+
+.prison{
+	max-width: 500px;
+ 	margin: auto;
+  	text-align: center;
+  	color: red;
+}
